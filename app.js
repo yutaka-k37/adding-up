@@ -1,5 +1,6 @@
 'use strict';
 // コメント追加
+// 更にコメントを追加
 // node.js で用意されている module を使用して実装する
 // fs: FileSystem の略で、ファイルを扱うことが可能
 const fs = require('fs')
